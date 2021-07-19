@@ -1,6 +1,6 @@
 {
   "name": "M-Dashboard Docs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Documentation for the M-Dash Admin Dashboard",
   "main": "index.js",
   "authors": {
