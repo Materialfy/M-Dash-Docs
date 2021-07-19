@@ -1,0 +1,19 @@
+{
+  "name": "M-Dashboard Docs",
+  "version": "0.0.1",
+  "description": "Documentation for the M-Dash Admin Dashboard",
+  "main": "index.js",
+  "authors": {
+    "name": "Clint",
+    "email": "clintoxe@gmail.com"
+  },
+  "repository": "https://github.com/Materialfy/M-Dash-Docs/M-Dashboard Docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
