@@ -59,7 +59,7 @@ module.exports = {
           children: [
             '',
             'features',
-            'whats-new',
+            'issues',
 
           ]
         }

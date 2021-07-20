@@ -3,11 +3,7 @@
 
 [![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1512-shield.svg)](https://madewithvuejs.com/p/functional-vuetify-admin-dashboard/shield-link)
 
-
-##### Formerly known by Vuetify Admin Dashboard
-
-
-![Preview](https://github.com/ClintOxx/M-Dashboard-Materialfy/blob/master/public/img/mwQYxL1mES.gif)
+Formerly known by Vuetify Admin Dashboard
 
 M-Dashboard is a simple (Hopefully not ugly) productivity Dashboard to monitor tasks/work, it can also be used as an crud admin panel.
 Using the Dashboard is pretty simple but requires basic knowledge of Javascript, and the below libraries (Really just the first four)
@@ -69,20 +65,7 @@ After installing the dependencies you can also run additional tasks such as thes
 - `npm/yarn run build` to build your app for production
 - `npm/yarn run lint` to run linting.
 
-### Documentation
 
-[Click here for docs](https://www.docs.materialfy.com)
-
-There are also comments in files.
-
-### Current Bugs
-Checkout the Issues tab to see if any have been reported or closed.
-
-### Reporting Issues
-1. Make sure that you are using the latest version of the M-Dashboard and installed corerct versions of the dependcies with NPM/YARN.
-2. Provide reproducible steps on how to recreate the issue, this can speed things up & will help a lot.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-4. Provide screenshots if you are trying to point out an visual bug
 
 You can [send us a tweet](https://twitter.com/Materialfy) if you need faster minorish assistance, otherwise create an issue on here.
 
