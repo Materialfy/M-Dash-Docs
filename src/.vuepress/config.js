@@ -1,6 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
+  host: 'localhost',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -38,8 +39,12 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Materialfy',
+        link: 'https://www.Materialfy.com'
+      },
+      {
+        text: 'Demo',
+        link: 'https://materialfy-demo.netlify.app'
       },
       {
         text: 'VuePress',
@@ -53,7 +58,9 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'features',
+            'whats-new',
+
           ]
         }
       ],
