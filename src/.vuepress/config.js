@@ -71,7 +71,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            '',
+            'features',
 
             
 
