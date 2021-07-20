@@ -32,7 +32,7 @@
   - better off using Auth0
 
 
-# Whats New in 2.0:
+## Whats New in 2.0:
 
 * rewrote from the ground up to fix many of the lingering issues and to make this simplier, easier to read and easier to miantain.
 * Redid the design to make it simplier and less neon boy wonder cyberpunktastic

@@ -39,6 +39,10 @@ module.exports = {
         link: '/guide/',
       },
       {
+        text: 'Features',
+        link: '/features/'
+      },
+      {
         text: 'Materialfy',
         link: 'https://www.Materialfy.com'
       },
@@ -58,8 +62,18 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'features',
+            'gettingstarted',
             'issues',
+          ]
+        },
+        {
+          title: 'Features',
+          collapsable: false,
+          children: [
+            '',
+            '',
+
+            
 
           ]
         }
